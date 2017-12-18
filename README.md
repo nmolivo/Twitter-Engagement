@@ -13,4 +13,4 @@ Other group members were:<br>
 Dale Wahl - https://github.com/dale-wahl<br>
 Diego Rodriguez - https://github.com/rodriguezda<br>
 Kyle Santana - http://kylesantana.com<br>
-Matt Bollinger - 
+Matt Bollinger - https://github.com/mlybollinger
