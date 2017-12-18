@@ -11,6 +11,6 @@ My contributions include:
 
 Other group members were:<br>
 Dale Wahl - https://github.com/dale-wahl<br>
-Diego Rodriguez - https://github.com/rodriguezda<br>
+Diego Rodriguez - https://rodriguezda.github.io/<br>
 Kyle Santana - http://kylesantana.com<br>
 Matt Bollinger - https://github.com/mlybollinger
