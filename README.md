@@ -3,6 +3,8 @@ In an opportunity from General Assembly and Track Maven, we gather data-driven i
 
 This is a github repo of my contributions to a group project.
 
+You can find the presentation we gave here: https://docs.google.com/presentation/d/178vgdcrY4oBZ1QXHJYtTjZ4Be9C6k4SSbnmFLfxNoB4/edit?usp=sharing
+
 My contributions include:
 - Using AWS Rekognition to turn our image data into text data
 - Apply NLP techniques to analyze the text in our image tags
