@@ -1,12 +1,13 @@
 # Twitter-Engagement
-In an opportunity from General Assembly and Track Maven, we gather data-driven insights to help brands drive Twitter Engagement. #groupproject
+In an opportunity from General Assembly and Track Maven, we gather data-driven insights to help brands drive Twitter Engagement.
 
 This is a github repo of my contributions to a group project.
 
 My contributions include:
 - Using AWS Rekognition to turn our image data into text data
-- Exploring how the addition of image data affected the model constructed by Dale and Diego
+- Apply NLP techniques to analyze the text in our image tags
 - Performing Latent Dirichlet Analysis on the image data to break the images into topic categories
+- Exploring how the addition of image data affected the model constructed by Dale and Diego
 - Creating Decision Trees for each brand - to provide a tool for users to apply human judgement and our data insights to their content creation
 
 Other group members were:<br>
